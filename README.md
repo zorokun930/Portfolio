@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This project showcases my work, skills, and experience in a sleek, responsive design. Built to reflect my style and presence as a **YouTuber**, **developer**, and digital creator.
 
-![Portfolio Screenshot](main.jpg) <!-- Replace with actual path or link to image -->
+![Portfolio Screenshot](Screenshot-portfolio.png) <!-- Replace with actual path or link to image -->
 
 ---
 
