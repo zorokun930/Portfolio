@@ -41,7 +41,7 @@ cd portfolio-website
 
 🌐 Live Demo
 🔗 Click Here to View the Live Portfolio
-    https://zoro-protfolio.netlify.app/
+   https://protfolio-zorokun.netlify.app/
 
 🙌 Credits
 This website was designed and developed by Saurav as a personal branding portfolio. Feel free to fork or use it as a reference.
